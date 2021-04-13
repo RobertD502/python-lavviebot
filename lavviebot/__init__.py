@@ -1,1 +1,1 @@
-from .lavviebotapi import LavvieBotApi
+from lavviebotapi import LavvieBotApi
